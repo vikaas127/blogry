@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76208028891",
+    "project_id": "blogry-f8484",
+    "storage_bucket": "blogry-f8484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76208028891:android:f17bf5ab7387eb748ea0fe",
+        "android_client_info": {
+          "package_name": "com.app.ios.blogry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76208028891-hvalgls8tn0sf51bp4m6gk9t8bm937ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDUk9qKkpCf8t7ytINWovRndV7kaMFh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76208028891-hvalgls8tn0sf51bp4m6gk9t8bm937ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
